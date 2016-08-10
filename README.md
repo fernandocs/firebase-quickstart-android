@@ -1,5 +1,5 @@
 ##Introdution
-This demo is based on samples in [Firebase QuickStart](https://github.com/firebase/quickstart-android).
+This demo was based on samples in [Firebase QuickStart](https://github.com/firebase/quickstart-android).
 
 Firebase features implemented in this project:
 
