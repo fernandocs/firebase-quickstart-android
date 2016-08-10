@@ -1,5 +1,15 @@
 ##Introdution
-This demo is based on samples in [Firebase QuickStart](https://github.com/firebase/quickstart-android)
+This demo is based on samples in [Firebase QuickStart](https://github.com/firebase/quickstart-android).
+
+Firebase features implemented in this project:
+
+- Authentication with FirebaseUI
+- Crash Report
+- Analytics
+- Cloud Message
+- Realtime Database
+- Storage
+- Remote config
 
 ##My Presentation
 [Building Android App's with Firebase](https://speakerdeck.com/fernandocs/building-android-apps-with-firebase)
