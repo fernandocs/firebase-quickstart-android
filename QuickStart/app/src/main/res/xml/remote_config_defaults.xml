@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>title_size</key>
+        <value>10</value>
+    </entry>
+    <entry>
+        <key>post_size</key>
+        <value>50</value>
+    </entry>
+</defaultsMap>
+    <!-- END xml_defaults -->
